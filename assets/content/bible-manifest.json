@@ -1,0 +1,711 @@
+{
+ "source": "https://github.com/thiagobodruk/bible",
+ "commit": "d37325f1f076f8eb0a25103231656b2f3bfed8f2",
+ "versions": {
+  "ar_kehm": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 8083432
+  },
+  "zh_cunpss-shen": {
+   "verses": 30968,
+   "books": 66,
+   "bytes": 3298541
+  },
+  "zh_cnvs": {
+   "verses": 30997,
+   "books": 66,
+   "bytes": 3573911
+  },
+  "de_sch1951": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4345862
+  },
+  "el_fpb": {
+   "verses": 31027,
+   "books": 66,
+   "bytes": 7482417
+  },
+  "en_bbe": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4276063
+  },
+  "en_kjv": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4247581
+  },
+  "en_asv": {
+   "verses": 31086,
+   "books": 66,
+   "bytes": 4246186
+  },
+  "en_amp": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4893065
+  },
+  "en_wbms": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4377129
+  },
+  "en_jub": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4233394
+  },
+  "en_bsb": {
+   "verses": 31086,
+   "books": 66,
+   "bytes": 3972433
+  },
+  "en_csb": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 3992040
+  },
+  "en_cev": {
+   "verses": 28213,
+   "books": 66,
+   "bytes": 3418268
+  },
+  "en_darby": {
+   "verses": 31099,
+   "books": 66,
+   "bytes": 4190567
+  },
+  "en_dra": {
+   "verses": 31233,
+   "books": 66,
+   "bytes": 4175061
+  },
+  "en_esv": {
+   "verses": 31086,
+   "books": 66,
+   "bytes": 4057969
+  },
+  "en_fbv": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 4104133
+  },
+  "en_gnv": {
+   "verses": 31090,
+   "books": 66,
+   "bytes": 4284613
+  },
+  "en_gnt": {
+   "verses": 29930,
+   "books": 66,
+   "bytes": 3868380
+  },
+  "en_kjva": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4247581
+  },
+  "en_leb": {
+   "verses": 31083,
+   "books": 66,
+   "bytes": 4221297
+  },
+  "en_lsv": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4246926
+  },
+  "en_mbsb": {
+   "verses": 31086,
+   "books": 66,
+   "bytes": 3984381
+  },
+  "en_nasb": {
+   "verses": 31090,
+   "books": 66,
+   "bytes": 4230052
+  },
+  "en_niv": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 3973116
+  },
+  "en_nlt": {
+   "verses": 31045,
+   "books": 66,
+   "bytes": 4147844
+  },
+  "en_nmv": {
+   "verses": 31100,
+   "books": 66,
+   "bytes": 5544224
+  },
+  "en_nkjv": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4149343
+  },
+  "en_kjvcpb": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4248957
+  },
+  "en_t4t": {
+   "verses": 30427,
+   "books": 66,
+   "bytes": 5647580
+  },
+  "en_engrv": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 4249761
+  },
+  "en_web": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4220649
+  },
+  "en_webu": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4123050
+  },
+  "en_webbe": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4238351
+  },
+  "en_webus": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4110288
+  },
+  "en_wmb": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4234205
+  },
+  "en_wmbbe": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4239129
+  },
+  "en_ylt98": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4295476
+  },
+  "en_tojb2011": {
+   "verses": 31144,
+   "books": 66,
+   "bytes": 4682210
+  },
+  "eo_esp": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 3948391
+  },
+  "es_rvr1960": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4023357
+  },
+  "fi_fb38": {
+   "verses": 31149,
+   "books": 66,
+   "bytes": 4337638
+  },
+  "fr_apee": {
+   "verses": 30975,
+   "books": 66,
+   "bytes": 4390832
+  },
+  "ko_krv": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4526878
+  },
+  "pt_aa": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4023851
+  },
+  "pt_acf": {
+   "verses": 31106,
+   "books": 66,
+   "bytes": 4031867
+  },
+  "pt_ara": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 3991617
+  },
+  "pt_nvi": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 4075851
+  },
+  "pt_arc": {
+   "verses": 31105,
+   "books": 66,
+   "bytes": 4029725
+  },
+  "pt_rc69": {
+   "verses": 31105,
+   "books": 66,
+   "bytes": 4019951
+  },
+  "pt_a21": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 3946354
+  },
+  "pt_bpt09": {
+   "verses": 31150,
+   "books": 66,
+   "bytes": 4143197
+  },
+  "pt_avm": {
+   "verses": 30864,
+   "books": 66,
+   "bytes": 3976208
+  },
+  "pt_vfl": {
+   "verses": 31038,
+   "books": 66,
+   "bytes": 4300593
+  },
+  "pt_pastoral": {
+   "verses": 31212,
+   "books": 66,
+   "bytes": 3990295
+  },
+  "pt_kja": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 4640301
+  },
+  "pt_bkj": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4183828
+  },
+  "pt_naa": {
+   "verses": 31105,
+   "books": 66,
+   "bytes": 4171661
+  },
+  "pt_nbv": {
+   "verses": 31105,
+   "books": 66,
+   "bytes": 4524132
+  },
+  "pt_ntlh": {
+   "verses": 30112,
+   "books": 66,
+   "bytes": 4260953
+  },
+  "pt_nvi2011": {
+   "verses": 31105,
+   "books": 66,
+   "bytes": 4031704
+  },
+  "pt_nvt": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4108708
+  },
+  "pt_ol": {
+   "verses": 30420,
+   "books": 66,
+   "bytes": 4141342
+  },
+  "pt_tb": {
+   "verses": 31100,
+   "books": 66,
+   "bytes": 3983881
+  },
+  "pt_matos": {
+   "verses": 31089,
+   "books": 66,
+   "bytes": 4065936
+  },
+  "ro_vdc": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4328741
+  },
+  "ru_synod": {
+   "verses": 30645,
+   "books": 64,
+   "bytes": 6052673
+  },
+  "vi_vie": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 5218376
+  },
+  "it_irb20": {
+   "verses": 31100,
+   "books": 66,
+   "bytes": 4241910
+  },
+  "pl_ubg": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 3993779
+  },
+  "tr_ytc": {
+   "verses": 31027,
+   "books": 66,
+   "bytes": 4042431
+  },
+  "sv_sfb15": {
+   "verses": 31153,
+   "books": 66,
+   "bytes": 3932311
+  },
+  "hu_hunk": {
+   "verses": 31171,
+   "books": 66,
+   "bytes": 4282563
+  },
+  "cs_bkr": {
+   "verses": 31172,
+   "books": 66,
+   "bytes": 3989932
+  },
+  "hi_irvhin": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 10418952
+  },
+  "ur_irvurd": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 9613213
+  },
+  "fa_opcb": {
+   "verses": 28731,
+   "books": 66,
+   "bytes": 5981265
+  },
+  "th_kjvthai": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 11663239
+  },
+  "bn_irvben": {
+   "verses": 31088,
+   "books": 66,
+   "bytes": 9949406
+  },
+  "pa_irvpun": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 9861250
+  },
+  "ta_irvtam": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 12594959
+  },
+  "te_irvtel": {
+   "verses": 30934,
+   "books": 66,
+   "bytes": 10225052
+  },
+  "mr_irvmar": {
+   "verses": 31070,
+   "books": 66,
+   "bytes": 10491511
+  },
+  "sw_sruv": {
+   "verses": 31101,
+   "books": 66,
+   "bytes": 3931554
+  },
+  "tl_abtag": {
+   "verses": 31088,
+   "books": 66,
+   "bytes": 5014009
+  },
+  "sr_dk": {
+   "verses": 31111,
+   "books": 66,
+   "bytes": 5723045
+  },
+  "bg_vbg": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 6460442
+  },
+  "be_bbl": {
+   "verses": 31163,
+   "books": 66,
+   "bytes": 6122741
+  },
+  "nb_bibel2011": {
+   "verses": 31165,
+   "books": 66,
+   "bytes": 3754140
+  },
+  "as_irvasm": {
+   "verses": 31085,
+   "books": 66,
+   "bytes": 10515996
+  },
+  "my_jbmle": {
+   "verses": 30542,
+   "books": 66,
+   "bytes": 14607960
+  },
+  "kn_irvkan": {
+   "verses": 30970,
+   "books": 66,
+   "bytes": 10525117
+  },
+  "gu_irvguj": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 9682539
+  },
+  "ml_irvmal": {
+   "verses": 31100,
+   "books": 66,
+   "bytes": 11297851
+  },
+  "ne_oncv": {
+   "verses": 31090,
+   "books": 66,
+   "bytes": 10642495
+  },
+  "or_irvory": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 10793530
+  },
+  "ms_tmvr": {
+   "verses": 29960,
+   "books": 66,
+   "bytes": 4528673
+  },
+  "ja_jniv": {
+   "verses": 31099,
+   "books": 66,
+   "bytes": 5099122
+  },
+  "ak_wakna": {
+   "verses": 31098,
+   "books": 66,
+   "bytes": 3824891
+  },
+  "ckb_okss": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 6416164
+  },
+  "ee_oal": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4210626
+  },
+  "gd_abg1992": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4710949
+  },
+  "ha_bsrk": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 4024361
+  },
+  "ht_bsa": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 3989271
+  },
+  "ig_biuo": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 5134934
+  },
+  "ki_kgnk": {
+   "verses": 31100,
+   "books": 66,
+   "bytes": 5009753
+  },
+  "kk_qazbi": {
+   "verses": 31002,
+   "books": 66,
+   "bytes": 7884292
+  },
+  "la_vulg": {
+   "verses": 31229,
+   "books": 66,
+   "bytes": 3671978
+  },
+  "lg_olcb": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4341544
+  },
+  "ln_smnb": {
+   "verses": 31147,
+   "books": 66,
+   "bytes": 4690855
+  },
+  "lv_lg8": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4032364
+  },
+  "mi_mri2012": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4857154
+  },
+  "nd_oben": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4070451
+  },
+  "ny_tccl": {
+   "verses": 31104,
+   "books": 66,
+   "bytes": 4300422
+  },
+  "om_onocv": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 5758046
+  },
+  "rn_obkc": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4151193
+  },
+  "sn_bdrsc": {
+   "verses": 31103,
+   "books": 66,
+   "bytes": 4043089
+  },
+  "sq_albb": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 4464042
+  },
+  "to_rwv": {
+   "verses": 31102,
+   "books": 66,
+   "bytes": 5356830
+  },
+  "yo_oycb": {
+   "verses": 31087,
+   "books": 66,
+   "bytes": 5410703
+  },
+  "ca_bci": {
+   "verses": 30979,
+   "books": 66,
+   "bytes": 4103169
+  },
+  "he_wlc": {
+   "verses": 23192,
+   "books": 39,
+   "bytes": 5443205
+  },
+  "nl_nld1939": {
+   "verses": 30575,
+   "books": 64,
+   "bytes": 4030665
+  },
+  "af_afr53": {
+   "verses": 31175,
+   "books": 66,
+   "bytes": 4243636
+  },
+  "eu_bhnt": {
+   "verses": 31151,
+   "books": 66,
+   "bytes": 4322442
+  },
+  "ceb_oapd": {
+   "verses": 30216,
+   "books": 66,
+   "bytes": 4590448
+  },
+  "bi_obbr": {
+   "verses": 29332,
+   "books": 66,
+   "bytes": 6029789
+  },
+  "id_tsi": {
+   "verses": 20130,
+   "books": 48,
+   "bytes": 3548941
+  },
+  "uk_vnpu": {
+   "verses": 10483,
+   "books": 28,
+   "bytes": 1835498
+  },
+  "rw_ruf": {
+   "verses": 7959,
+   "books": 27,
+   "bytes": 1011241
+  },
+  "hr_okok": {
+   "verses": 7946,
+   "books": 27,
+   "bytes": 877644
+  },
+  "sk_onpk": {
+   "verses": 7952,
+   "books": 27,
+   "bytes": 959874
+  },
+  "et_opkek": {
+   "verses": 7956,
+   "books": 27,
+   "bytes": 925782
+  },
+  "is_olo": {
+   "verses": 9421,
+   "books": 28,
+   "bytes": 1285541
+  },
+  "tn_olef": {
+   "verses": 7256,
+   "books": 27,
+   "bytes": 1132528
+  },
+  "hy_neb": {
+   "verses": 30572,
+   "books": 64,
+   "bytes": 6461403
+  },
+  "grc_grctr": {
+   "verses": 7957,
+   "books": 27,
+   "bytes": 1714368
+  },
+  "grc_grcbrent": {
+   "verses": 21949,
+   "books": 36,
+   "bytes": 5466849
+  },
+  "sa_san-dn": {
+   "verses": 7959,
+   "books": 27,
+   "bytes": 2378835
+  },
+  "yi_oytanakh": {
+   "verses": 23185,
+   "books": 39,
+   "bytes": 6011248
+  }
+ }
+}
