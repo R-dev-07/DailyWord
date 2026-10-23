@@ -6,9 +6,6 @@ DailyWord is an offline-first Bible reading app for iOS and Android, built with 
 
 Install Node.js (LTS), then from this folder run `npm install` followed by `npm start`. The start script uses Expo's tunnel mode so Expo Go can download Metro assets even when the phone cannot reach the computer's local network address. Scan the newly generated QR code; do not reuse an older `192.168.x.x` QR code. Run `npm run typecheck` to check TypeScript. Native notifications and some device features require a development build and physical-device testing.
 
-## Build an installable APK
-
-See `BUILD_APK.md`. Short version: push to GitHub and run the **Build Android APK** workflow (no account needed), or run `npm run build:apk` with an Expo account.
 
 ## Current prototype
 
